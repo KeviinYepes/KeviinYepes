@@ -9,13 +9,11 @@
   
 - 🌱 I’m currently learning **Django**
 
-- 🧑‍🎓 I’m an Undergraduate at **Zoho Creator , Python**
+- 🧑‍🎓 I’m an Undergraduate at **Software Analyst at UNAD**
 
 - 💬 Ask me about **Web development | OOC**
 
 - 📫 How to reach me **keyv2412@gmail.com**
-  
-- ⚡ Fun fact **Call me as Kenny**
 
 </td>
 <td width="50%" align="center">
