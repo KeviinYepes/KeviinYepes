@@ -1,4 +1,3 @@
-<div class="Desing 1">
    <div align="center">
       <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
    </div>
@@ -128,4 +127,4 @@
    <h6 align="center">👇🏻 Here is a list of the Open Source projects I work on: 👇🏻</h6>
    
    ------
-</div>
+
