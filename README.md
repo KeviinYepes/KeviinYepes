@@ -13,7 +13,6 @@
 - 💬 Ask me about **Web development | OOC**
 
 - 📫 How to reach me **keyv2412@gmail.com**
-
 </td>
 <td width="50%" align="center">
 
