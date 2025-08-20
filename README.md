@@ -4,7 +4,7 @@
 <div align="center">
 
 <a href="https://github.com/KeviinYepes">
-<img src="https://github.com/user-attachments/assets/77f249fa-d3bf-4ece-aad2-7fe374d1217f" />
+<img src="https://media.tenor.com/ShphQRiwlEgAAAAM/matrix-code.gif" />
 </a>
 
 [![GitHub Followers](https://img.shields.io/github/followers/KeviinYepes?label=Follow&style=social)](https://github.com/KeviinYepes)
