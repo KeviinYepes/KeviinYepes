@@ -1,8 +1,4 @@
-<div align="Center">
-<img width="100" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" />
-
 <div align="center">
-
 <a href="https://github.com/KeviinYepes">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemxtaWIwa2lwZjM4MzV3azEwM215cDFiejRyb2JjYjgzNDN5NHNnMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" />
 </a>
