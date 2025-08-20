@@ -70,7 +70,3 @@
 
 </div>
 
-------
-
-Credit: [KeviinYepes](https://github.com/KeviinYepes)  
-Last Edited on: 20/08/2025  
