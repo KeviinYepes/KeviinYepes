@@ -65,8 +65,6 @@
 <p>
   <img src="https://img.shields.io/badge/figma-7434a4?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/adobe%20photoshop-001E36.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/adobe%20illustrator-3c240c.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=f8a829" />
 </p>
 
 #### currently learning  
