@@ -8,7 +8,6 @@
 </p>
 
 <h3 align="center">Software Engineering Student @ UNAD | Front-End Developer | Tech Enthusiast</h3>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/kevin-estiven-yepes-villareal-93999b285/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
