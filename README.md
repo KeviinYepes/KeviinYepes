@@ -6,7 +6,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KeviinYepes&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
 </p>
-
 <h3 align="center">Software Engineering Student @ UNAD | Front-End Developer | Tech Enthusiast</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/kevin-estiven-yepes-villareal-93999b285/" target="_blank">
