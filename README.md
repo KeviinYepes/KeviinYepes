@@ -29,7 +29,6 @@
 - 🎯 **Interests:** Web Development, Object-Oriented Programming (OOP), and Workflow Automation.
 
 ---
-
 ### 🛠️ Tech Stack & Tools
 
 #### 💻 Programming & Markup Languages
