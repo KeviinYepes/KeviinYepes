@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=KeviinYepes&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
 
-<h2 align="center">Construyendo el futuro, un script a la vez. 🚀</h2>
+<h2 align="center">Construyendo el futuro , un script a la vez. 🚀</h2>
 
 <p align="center">
   <a href="https://keviinyepes.vercel.app" target="_blank">
