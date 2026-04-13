@@ -151,9 +151,9 @@ Aquí puedes ver una selección de mis trabajos más relevantes.
 <br>
 
 ## 🎧 Now Playing
+
 <p align="center">
-  <a href="https://github.com/novatorem/spotify-github-profile">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=1234567890abcdef&cover_image=true&theme=tokyonight" alt="Spotify" /> </a>
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lg7kekb4rxa4dwdatpzagmzkci&cover_image=true&theme=tokyonight&show_offline=false&bar_color=53b14f&bar_color_cover=true" />
 </p>
 
 <br>
