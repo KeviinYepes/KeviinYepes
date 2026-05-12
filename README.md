@@ -21,7 +21,6 @@
 ## 👨‍💻 About Me
 
 I'm a **Software Development Analyst** focused on **Backend Development, Process Automation, RPA, and API Integration**.
-
 I enjoy building solutions that reduce manual work, improve operational efficiency, and support real business processes through scalable and reliable systems.
 
 - 🔭 **Current Focus:** Backend development and automation solutions  
